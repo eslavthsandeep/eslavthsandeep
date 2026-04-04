@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Eslavath Sandeep
 **A passionate  AI/ML Engineer || Web Developer || Problem Solver (DSA).**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **e.sandeepsandy123@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** e.sandeepsandy123@gmail.com
