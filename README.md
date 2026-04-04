@@ -13,7 +13,7 @@ Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anyt
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://eslavthsandeep-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 # 💻 Tech Stack:
